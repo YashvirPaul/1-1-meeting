@@ -1,0 +1,7 @@
+{
+  "name": "Yash | 1:1 WhatsApp Video Consultation",
+  "description": "Book a personalized 1:1 live video call with Yash directly via WhatsApp. Select your time slot, checkout securely with Cashfree, and connect instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
